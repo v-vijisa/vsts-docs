@@ -86,8 +86,7 @@ the VSTS group where you add them.
 A: No, because these groups are created and managed in Azure. 
 VSTS doesn't store or sync member status for Azure AD groups. 
 So, to manage Azure AD groups, use the 
-[Azure classic portal](https://manage.windowsazure.com)
-or [Azure portal](https://portal.azure.com), Microsoft Identity Manager (MIM), 
+[Azure portal](https://portal.azure.com), Microsoft Identity Manager (MIM), 
 or the group management tools that your organization supports.
 
 ### Q: How do I tell the difference between a VSTS group and an Azure AD group?
